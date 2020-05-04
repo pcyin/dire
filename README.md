@@ -1,4 +1,4 @@
-**This Repo is deprecated, please refer to https://github.com/CMUSTRUDEL/DIRE for latest updates **
+**This Repo is deprecated, please refer to https://github.com/CMUSTRUDEL/DIRE for latest updates**
 
 # Neural Variable Renaming
 
