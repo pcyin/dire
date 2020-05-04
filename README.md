@@ -1,3 +1,5 @@
+**This Repo is deprecated, please refer to https://github.com/CMUSTRUDEL/DIRE for latest updates **
+
 # Neural Variable Renaming
 
 This repository contains the neural variable renaming model `DIRE` from our ASE 2019 paper *DIRE: A Neural Approach to Decompiled Identifier Renaming*.
